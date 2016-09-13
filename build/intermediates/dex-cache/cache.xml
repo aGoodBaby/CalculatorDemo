@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\fengdeyu\StudioProjects\CalculatorDemo-pc\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="65db216cf5ee4bf1260c075afdcbcabb82f3c9d2">
+        <dex dex="C:\Users\fengdeyu\StudioProjects\CalculatorDemo-pc\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_83a89f573af802216e2a84b662078b1e0283f316\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\fengdeyu\StudioProjects\CalculatorDemo-pc\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="eeca95be1da717c01f943535235df03d7b7378a3">
+        <dex dex="C:\Users\fengdeyu\StudioProjects\CalculatorDemo-pc\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5282a1cafebf9301ead36e321f6b3f61754ae2f0\classes.dex" />
+    </item>
+    <item
+        jar="D:\androidEnv\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\fengdeyu\StudioProjects\CalculatorDemo-pc\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_1755e76b7559c5b37c6853c5527657300bfc8b8c\classes.dex" />
+    </item>
+
+</items>
